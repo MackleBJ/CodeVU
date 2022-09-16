@@ -1,0 +1,14 @@
+H:\programming\csharp\codevu\module1\lab2\obj\Debug\netcoreapp3.1\lab2.csproj.AssemblyReference.cache
+H:\programming\csharp\codevu\module1\lab2\obj\Debug\netcoreapp3.1\lab2.GeneratedMSBuildEditorConfig.editorconfig
+H:\programming\csharp\codevu\module1\lab2\obj\Debug\netcoreapp3.1\lab2.AssemblyInfoInputs.cache
+H:\programming\csharp\codevu\module1\lab2\obj\Debug\netcoreapp3.1\lab2.AssemblyInfo.cs
+H:\programming\csharp\codevu\module1\lab2\obj\Debug\netcoreapp3.1\lab2.csproj.CoreCompileInputs.cache
+H:\programming\csharp\codevu\module1\lab2\bin\Debug\netcoreapp3.1\lab2.exe
+H:\programming\csharp\codevu\module1\lab2\bin\Debug\netcoreapp3.1\lab2.deps.json
+H:\programming\csharp\codevu\module1\lab2\bin\Debug\netcoreapp3.1\lab2.runtimeconfig.json
+H:\programming\csharp\codevu\module1\lab2\bin\Debug\netcoreapp3.1\lab2.runtimeconfig.dev.json
+H:\programming\csharp\codevu\module1\lab2\bin\Debug\netcoreapp3.1\lab2.dll
+H:\programming\csharp\codevu\module1\lab2\bin\Debug\netcoreapp3.1\lab2.pdb
+H:\programming\csharp\codevu\module1\lab2\obj\Debug\netcoreapp3.1\lab2.dll
+H:\programming\csharp\codevu\module1\lab2\obj\Debug\netcoreapp3.1\lab2.pdb
+H:\programming\csharp\codevu\module1\lab2\obj\Debug\netcoreapp3.1\lab2.genruntimeconfig.cache
