@@ -1,0 +1,14 @@
+H:\programming\csharp\vu\codevu\module2\coinexchange\bin\Debug\netcoreapp3.1\CoinExchange.exe
+H:\programming\csharp\vu\codevu\module2\coinexchange\bin\Debug\netcoreapp3.1\CoinExchange.deps.json
+H:\programming\csharp\vu\codevu\module2\coinexchange\bin\Debug\netcoreapp3.1\CoinExchange.runtimeconfig.json
+H:\programming\csharp\vu\codevu\module2\coinexchange\bin\Debug\netcoreapp3.1\CoinExchange.runtimeconfig.dev.json
+H:\programming\csharp\vu\codevu\module2\coinexchange\bin\Debug\netcoreapp3.1\CoinExchange.dll
+H:\programming\csharp\vu\codevu\module2\coinexchange\bin\Debug\netcoreapp3.1\CoinExchange.pdb
+H:\programming\csharp\vu\codevu\module2\coinexchange\obj\Debug\netcoreapp3.1\CoinExchange.csproj.AssemblyReference.cache
+H:\programming\csharp\vu\codevu\module2\coinexchange\obj\Debug\netcoreapp3.1\CoinExchange.GeneratedMSBuildEditorConfig.editorconfig
+H:\programming\csharp\vu\codevu\module2\coinexchange\obj\Debug\netcoreapp3.1\CoinExchange.AssemblyInfoInputs.cache
+H:\programming\csharp\vu\codevu\module2\coinexchange\obj\Debug\netcoreapp3.1\CoinExchange.AssemblyInfo.cs
+H:\programming\csharp\vu\codevu\module2\coinexchange\obj\Debug\netcoreapp3.1\CoinExchange.csproj.CoreCompileInputs.cache
+H:\programming\csharp\vu\codevu\module2\coinexchange\obj\Debug\netcoreapp3.1\CoinExchange.dll
+H:\programming\csharp\vu\codevu\module2\coinexchange\obj\Debug\netcoreapp3.1\CoinExchange.pdb
+H:\programming\csharp\vu\codevu\module2\coinexchange\obj\Debug\netcoreapp3.1\CoinExchange.genruntimeconfig.cache

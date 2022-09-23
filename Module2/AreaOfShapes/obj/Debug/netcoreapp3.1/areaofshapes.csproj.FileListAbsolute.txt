@@ -1,0 +1,14 @@
+H:\programming\csharp\vu\codevu\module2\areaofshapes\obj\Debug\netcoreapp3.1\areaofshapes.csproj.AssemblyReference.cache
+H:\programming\csharp\vu\codevu\module2\areaofshapes\obj\Debug\netcoreapp3.1\areaofshapes.GeneratedMSBuildEditorConfig.editorconfig
+H:\programming\csharp\vu\codevu\module2\areaofshapes\obj\Debug\netcoreapp3.1\areaofshapes.AssemblyInfoInputs.cache
+H:\programming\csharp\vu\codevu\module2\areaofshapes\obj\Debug\netcoreapp3.1\areaofshapes.AssemblyInfo.cs
+H:\programming\csharp\vu\codevu\module2\areaofshapes\obj\Debug\netcoreapp3.1\areaofshapes.csproj.CoreCompileInputs.cache
+H:\programming\csharp\vu\codevu\module2\areaofshapes\bin\Debug\netcoreapp3.1\areaofshapes.exe
+H:\programming\csharp\vu\codevu\module2\areaofshapes\bin\Debug\netcoreapp3.1\areaofshapes.deps.json
+H:\programming\csharp\vu\codevu\module2\areaofshapes\bin\Debug\netcoreapp3.1\areaofshapes.runtimeconfig.json
+H:\programming\csharp\vu\codevu\module2\areaofshapes\bin\Debug\netcoreapp3.1\areaofshapes.runtimeconfig.dev.json
+H:\programming\csharp\vu\codevu\module2\areaofshapes\bin\Debug\netcoreapp3.1\areaofshapes.dll
+H:\programming\csharp\vu\codevu\module2\areaofshapes\bin\Debug\netcoreapp3.1\areaofshapes.pdb
+H:\programming\csharp\vu\codevu\module2\areaofshapes\obj\Debug\netcoreapp3.1\areaofshapes.dll
+H:\programming\csharp\vu\codevu\module2\areaofshapes\obj\Debug\netcoreapp3.1\areaofshapes.pdb
+H:\programming\csharp\vu\codevu\module2\areaofshapes\obj\Debug\netcoreapp3.1\areaofshapes.genruntimeconfig.cache
