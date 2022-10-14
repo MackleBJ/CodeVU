@@ -1,0 +1,14 @@
+H:\programming\csharp\vu\codevu\Module4\inclassexercise\bin\Debug\netcoreapp3.1\inclassexercise.exe
+H:\programming\csharp\vu\codevu\Module4\inclassexercise\bin\Debug\netcoreapp3.1\inclassexercise.deps.json
+H:\programming\csharp\vu\codevu\Module4\inclassexercise\bin\Debug\netcoreapp3.1\inclassexercise.runtimeconfig.json
+H:\programming\csharp\vu\codevu\Module4\inclassexercise\bin\Debug\netcoreapp3.1\inclassexercise.runtimeconfig.dev.json
+H:\programming\csharp\vu\codevu\Module4\inclassexercise\bin\Debug\netcoreapp3.1\inclassexercise.dll
+H:\programming\csharp\vu\codevu\Module4\inclassexercise\bin\Debug\netcoreapp3.1\inclassexercise.pdb
+H:\programming\csharp\vu\codevu\Module4\inclassexercise\obj\Debug\netcoreapp3.1\inclassexercise.csproj.AssemblyReference.cache
+H:\programming\csharp\vu\codevu\Module4\inclassexercise\obj\Debug\netcoreapp3.1\inclassexercise.GeneratedMSBuildEditorConfig.editorconfig
+H:\programming\csharp\vu\codevu\Module4\inclassexercise\obj\Debug\netcoreapp3.1\inclassexercise.AssemblyInfoInputs.cache
+H:\programming\csharp\vu\codevu\Module4\inclassexercise\obj\Debug\netcoreapp3.1\inclassexercise.AssemblyInfo.cs
+H:\programming\csharp\vu\codevu\Module4\inclassexercise\obj\Debug\netcoreapp3.1\inclassexercise.csproj.CoreCompileInputs.cache
+H:\programming\csharp\vu\codevu\Module4\inclassexercise\obj\Debug\netcoreapp3.1\inclassexercise.dll
+H:\programming\csharp\vu\codevu\Module4\inclassexercise\obj\Debug\netcoreapp3.1\inclassexercise.pdb
+H:\programming\csharp\vu\codevu\Module4\inclassexercise\obj\Debug\netcoreapp3.1\inclassexercise.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+H:\programming\csharp\vu\codevu\module3\atm\obj\Debug\netcoreapp3.1\atm.csproj.AssemblyReference.cache
+H:\programming\csharp\vu\codevu\module3\atm\obj\Debug\netcoreapp3.1\atm.GeneratedMSBuildEditorConfig.editorconfig
+H:\programming\csharp\vu\codevu\module3\atm\obj\Debug\netcoreapp3.1\atm.AssemblyInfoInputs.cache
+H:\programming\csharp\vu\codevu\module3\atm\obj\Debug\netcoreapp3.1\atm.AssemblyInfo.cs
+H:\programming\csharp\vu\codevu\module3\atm\obj\Debug\netcoreapp3.1\atm.csproj.CoreCompileInputs.cache
+H:\programming\csharp\vu\codevu\module3\atm\bin\Debug\netcoreapp3.1\atm.exe
+H:\programming\csharp\vu\codevu\module3\atm\bin\Debug\netcoreapp3.1\atm.deps.json
+H:\programming\csharp\vu\codevu\module3\atm\bin\Debug\netcoreapp3.1\atm.runtimeconfig.json
+H:\programming\csharp\vu\codevu\module3\atm\bin\Debug\netcoreapp3.1\atm.runtimeconfig.dev.json
+H:\programming\csharp\vu\codevu\module3\atm\bin\Debug\netcoreapp3.1\atm.dll
+H:\programming\csharp\vu\codevu\module3\atm\bin\Debug\netcoreapp3.1\atm.pdb
+H:\programming\csharp\vu\codevu\module3\atm\obj\Debug\netcoreapp3.1\atm.dll
+H:\programming\csharp\vu\codevu\module3\atm\obj\Debug\netcoreapp3.1\atm.pdb
+H:\programming\csharp\vu\codevu\module3\atm\obj\Debug\netcoreapp3.1\atm.genruntimeconfig.cache

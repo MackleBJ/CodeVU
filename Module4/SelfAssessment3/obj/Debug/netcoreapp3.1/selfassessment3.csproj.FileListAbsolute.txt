@@ -1,0 +1,14 @@
+H:\programming\csharp\vu\codevu\module4\selfassessment3\obj\Debug\netcoreapp3.1\selfassessment3.csproj.AssemblyReference.cache
+H:\programming\csharp\vu\codevu\module4\selfassessment3\obj\Debug\netcoreapp3.1\selfassessment3.GeneratedMSBuildEditorConfig.editorconfig
+H:\programming\csharp\vu\codevu\module4\selfassessment3\obj\Debug\netcoreapp3.1\selfassessment3.AssemblyInfoInputs.cache
+H:\programming\csharp\vu\codevu\module4\selfassessment3\obj\Debug\netcoreapp3.1\selfassessment3.AssemblyInfo.cs
+H:\programming\csharp\vu\codevu\module4\selfassessment3\obj\Debug\netcoreapp3.1\selfassessment3.csproj.CoreCompileInputs.cache
+H:\programming\csharp\vu\codevu\module4\selfassessment3\bin\Debug\netcoreapp3.1\selfassessment3.exe
+H:\programming\csharp\vu\codevu\module4\selfassessment3\bin\Debug\netcoreapp3.1\selfassessment3.deps.json
+H:\programming\csharp\vu\codevu\module4\selfassessment3\bin\Debug\netcoreapp3.1\selfassessment3.runtimeconfig.json
+H:\programming\csharp\vu\codevu\module4\selfassessment3\bin\Debug\netcoreapp3.1\selfassessment3.runtimeconfig.dev.json
+H:\programming\csharp\vu\codevu\module4\selfassessment3\bin\Debug\netcoreapp3.1\selfassessment3.dll
+H:\programming\csharp\vu\codevu\module4\selfassessment3\bin\Debug\netcoreapp3.1\selfassessment3.pdb
+H:\programming\csharp\vu\codevu\module4\selfassessment3\obj\Debug\netcoreapp3.1\selfassessment3.dll
+H:\programming\csharp\vu\codevu\module4\selfassessment3\obj\Debug\netcoreapp3.1\selfassessment3.pdb
+H:\programming\csharp\vu\codevu\module4\selfassessment3\obj\Debug\netcoreapp3.1\selfassessment3.genruntimeconfig.cache
